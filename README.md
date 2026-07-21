@@ -2,7 +2,7 @@
 
 > 为你汇总 昨日热搜。
 
-[打开热搜日报](https://yeeaiai.github.io/resouribao/) · [备用网址](https://resou-daily-d7gt62n4r0e605a2c-1341971865.tcloudbaseapp.com/)
+[打开热搜日报](https://resouribao.top/) · [GitHub Pages 备用地址](https://yeeaiai.github.io/resouribao/) · [腾讯云备用网址](https://resou-daily-d7gt62n4r0e605a2c-1341971865.tcloudbaseapp.com/)
 
 每天都有大量话题在微博热搜里快速出现、变化、消失。**热搜日报**不试图罗列全部热搜，而是从一天的热搜记录中筛选、合并出十件更值得回看的事件与话题：它们既是昨天发生了什么，也是人们当时在讨论什么。
 
